@@ -7,10 +7,8 @@ Reprocessing, combination, and timing analysis of Chandra ACIS data for the iden
 Dependencies
 --
 
-Requires CIAO and HEASoft, which should be installed to separate conda environments 
+Requires CIAO 
 
 https://cxc.cfa.harvard.edu/ciao/threads/ciao_install_conda
-
-https://heasarc.gsfc.nasa.gov/docs/software/conda.html
 
 ---
