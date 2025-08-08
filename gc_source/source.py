@@ -136,6 +136,7 @@ class Source:
                 exit()
             else:
                 logging.info('Adequate CC coordinate precision.')
+
     
     def ds9_viewer(self, infile):
         logging.info('Loading target...')
@@ -160,7 +161,6 @@ class Source:
                     '-saveimage', 'ds9_target.eps']
         run(ds9_view)
         input('Close DS9 window and press enter when finished. ')
-        
 
         regions = ascii.read('regions.reg', format='no_header')
         ascii.write(regions[0], 'source.reg', format='no_header', overwrite=True)
