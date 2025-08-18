@@ -1,13 +1,13 @@
 xsourcer
 =========
 
-Reprocessing, combination, and timing analysis of Chandra ACIS data for the identification of serendipitous X-ray sources at the Galactic Center.
+A tool for reprocessing and analyzing X-ray data for likely source identification.
 
 ---
 Dependencies
 --
 
-Requires CIAO 
+Requires CIAO environment
 
 https://cxc.cfa.harvard.edu/ciao/threads/ciao_install_conda
 
