@@ -13,7 +13,7 @@ https://cxc.cfa.harvard.edu/ciao/threads/ciao_install_conda
 https://heasarc.gsfc.nasa.gov/docs/software/conda.html
 
 ---
-`Using xsourcer`. 
+Using `xsourcer`
 --
 
 Initialize the program and provide a target. 
