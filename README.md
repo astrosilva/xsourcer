@@ -56,3 +56,12 @@ chandra.ds9_viewer('merged_evt.fits', chandra.ra, chandra.dec)
 ```python
 chandra.periodogram()
 ```
+
+---
+Capabilities in development
+--
+- A more dynamic query
+- Source identification based on periodocity
+- Phase folded data
+- Spectral analysis
+- XMM-Newton Source Catalog
