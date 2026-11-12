@@ -1,4 +1,0 @@
-astropy
-astroquery
-numpy
-PyAstronomy
